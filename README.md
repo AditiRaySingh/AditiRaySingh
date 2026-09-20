@@ -68,6 +68,7 @@ A full-stack examination platform built using the MERN stack with
 AI-related features.
 
 **Technologies:**
+
 - React
 - Node.js
 - Express.js
@@ -77,44 +78,25 @@ AI-related features.
 - AI integration
 
 **Features:**
+
 - 👤 Student and Teacher authentication
 - 📝 Exam creation and management
 - ❓ Question management
 - 📊 Student dashboard
 - 📈 Exam results and performance
 - 🔐 Role-based authorization
-- 🤖 AI-based question/evaluation features
+- 🤖 AI-based question and evaluation features
 - 📱 Responsive interface
-
-🔗 **Live Project:** https://ai-exam-portal-2.onrender.com
-
----
-
-### 📚 EduPresence Monitoring System
-
-A web-based project designed to manage and monitor student attendance.
-
-**Technologies:**
-- HTML
-- CSS
-- JavaScript
-- Backend technologies
-- Database
-
-**Key Features:**
-- Student management
-- Attendance monitoring
-- Data management
-- User-friendly interface
 
 ---
 
 ### 📍 Service Booking & Location Tracking System
 
-A web application concept for connecting users with services and tracking
+A web application designed for service booking and tracking
 service-related activities.
 
 **Technologies:**
+
 - HTML
 - CSS
 - JavaScript
@@ -123,6 +105,7 @@ service-related activities.
 - MongoDB
 
 **Key Features:**
+
 - Service booking
 - User management
 - Location-related functionality
@@ -145,11 +128,8 @@ I am currently practicing DSA using Java.
 - Stack
 - Queue
 - Hashing
-- Recursion
 - Sorting
 - Searching
-- Greedy Algorithms
-- Basic Trees
 - Problem Solving
 
 I focus on understanding the logic behind a problem instead of only
@@ -186,14 +166,6 @@ memorizing solutions.
 - Forms and validation
 - Component-based development
 - Axios
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
