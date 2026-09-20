@@ -90,30 +90,6 @@ AI-related features.
 
 ---
 
-### 📍 Service Booking & Location Tracking System
-
-A web application designed for service booking and tracking
-service-related activities.
-
-**Technologies:**
-
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
-
-**Key Features:**
-
-- Service booking
-- User management
-- Location-related functionality
-- Backend API integration
-- Database management
-
----
-
 ## 🧠 Data Structures & Algorithms
 
 I am currently practicing DSA using Java.
