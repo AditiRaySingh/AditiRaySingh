@@ -1,163 +1,195 @@
+<div align="center">
+
 # 👋 Hi, I'm Aditi Ray Singh
 
 ### 💻 Software Developer | MERN Stack Developer | Java DSA Learner
 
-I'm a B.Tech Computer Science student passionate about building web applications
-using the MERN stack. I enjoy developing practical projects, learning backend
-development, and improving my problem-solving skills through Java and DSA.
+<p>
+  <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-DSA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Integration-8A2BE2?style=for-the-badge" />
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science student
-- 💻 Interested in Software Development and MERN Stack Development
-- 🌱 Currently improving my skills in React, Node.js, Express.js and MongoDB
-- 🧠 Practicing Data Structures & Algorithms using Java
-- 🔐 Learning authentication using JWT and bcrypt
-- 🔌 Building and testing REST APIs
-- 🤖 Working on AI-integrated web applications
-- 🛠️ Interested in building real-world projects
-- 📚 Always learning and improving my coding skills
+🎓 B.Tech Computer Science student passionate about **Software Development and Full-Stack Web Development**.
 
----
+💻 I enjoy building practical applications using the **MERN stack** and developing backend APIs.
 
-## 💻 Tech Stack
+🌱 Currently improving my skills in **React, Node.js, Express.js, MongoDB and Java DSA**.
 
-### 🌐 Frontend
+🤖 Interested in building **AI-integrated web applications**.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+🧠 I regularly practice **Data Structures & Algorithms** to improve my problem-solving skills.
 
-### ⚙️ Backend
+🔐 Learning and implementing **authentication, authorization and secure APIs**.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔐 Authentication & APIs
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### ☕ Programming
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+🚀 My goal is to continuously improve my development skills by building real-world projects.
 
 ---
 
-## 📌 Featured Projects
+# 🛠️ Tech Stack
 
-### 🤖 AI Exam Portal
+## 🌐 Frontend
 
-A full-stack examination platform built using the MERN stack with
-AI-related features.
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
-**Technologies:**
+## ⚙️ Backend
 
-- React
-- Node.js
-- Express.js
-- MongoDB
-- JWT Authentication
-- REST APIs
-- AI integration
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
-**Features:**
+## 🗄️ Database
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+## 🔐 Authentication & APIs
+
+<p>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+## ☕ Programming
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+## 🧰 Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+# 🚀 Featured Project
+
+## 🤖 AI Exam Portal
+
+> A full-stack examination platform built using the **MERN stack** with AI-powered features.
+
+### 🔧 Technologies Used
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+### ✨ Features
 
 - 👤 Student and Teacher authentication
 - 📝 Exam creation and management
 - ❓ Question management
 - 📊 Student dashboard
-- 📈 Exam results and performance
+- 📈 Exam results and performance tracking
 - 🔐 Role-based authorization
 - 🤖 AI-based question and evaluation features
-- 📱 Responsive interface
+- 📱 Responsive user interface
+- 🔌 REST API integration
 
 ---
 
-## 🧠 Data Structures & Algorithms
+# 🧠 Data Structures & Algorithms
 
-I am currently practicing DSA using Java.
+I practice **DSA using Java** to strengthen my problem-solving and coding skills.
 
-### Topics I'm Working On
+### 📚 Topics
 
-- Arrays
-- Strings
-- Two Pointers
-- Sliding Window
-- Linked Lists
-- Stack
-- Queue
-- Hashing
-- Sorting
-- Searching
-- Problem Solving
-
-I focus on understanding the logic behind a problem instead of only
-memorizing solutions.
+<p>
+<img src="https://img.shields.io/badge/Arrays-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/Strings-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/Two%20Pointers-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/Sliding%20Window-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/Linked%20Lists-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/Queue-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/Hashing-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/Sorting-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/Searching-6A5ACD?style=flat-square" />
+</p>
 
 ---
 
-## 🔧 Backend Skills
+# 🔧 Backend Skills
 
-- Node.js
-- Express.js
-- REST API development
-- MongoDB & Mongoose
-- JWT authentication
-- Password hashing with bcrypt
-- Middleware
-- MVC architecture
-- CRUD operations
-- API testing with Postman
-- Error handling
-- Role-based authorization
-
----
-
-## 🎨 Frontend Skills
-
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- React Router
-- API integration
-- Responsive design
-- Forms and validation
-- Component-based development
-- Axios
+| Skill | Experience |
+|------|------------|
+| Node.js | Backend Development |
+| Express.js | REST API Development |
+| MongoDB | Database Management |
+| Mongoose | Database Modeling |
+| JWT | Authentication |
+| bcrypt | Password Hashing |
+| Middleware | Request Processing |
+| MVC | Application Architecture |
+| CRUD | API Operations |
+| Postman | API Testing |
+| REST APIs | API Development |
+| Role-Based Authorization | Access Control |
 
 ---
 
-## 📈 Currently Learning
+# 🎨 Frontend Skills
+
+- ⚛️ React.js
+- 🧩 React Router
+- 🔗 API Integration
+- 📱 Responsive Design
+- 📝 Forms & Validation
+- 🧱 Component-Based Development
+- ⚡ Axios
+- 🎨 HTML5 & CSS3
+- 🟨 JavaScript
+
+---
+
+# 📈 Currently Learning
+
+<div align="center">
 
 ```text
-MERN Stack
-     ↓
-React.js
-     ↓
-Node.js + Express.js
-     ↓
-MongoDB
-     ↓
-REST APIs
-     ↓
-Authentication & Authorization
-     ↓
-Real-World Projects
+                    🚀 MERN STACK
+                         │
+                         ▼
+                    ⚛️ React.js
+                         │
+                         ▼
+              🟢 Node.js + Express.js
+                         │
+                         ▼
+                    🍃 MongoDB
+                         │
+                         ▼
+                    🔌 REST APIs
+                         │
+                         ▼
+             🔐 Authentication & Security
+                         │
+                         ▼
+                 🤖 AI Integration
+                         │
+                         ▼
+                🚀 Real-World Projects
